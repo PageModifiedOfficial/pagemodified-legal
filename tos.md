@@ -56,7 +56,7 @@ All other trademarks displayed on Page Modified’s website are the trademarks o
 Notification of Claimed Copyright Infringement
 Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, Page Modified designates the following individual as its agent for receipt of notifications of claimed copyright infringement.
 
-    By Mail
+By Mail
     Page Modified
     4648 N 32nd St
     Phoenix, AZ 85018
