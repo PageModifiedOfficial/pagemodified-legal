@@ -1,6 +1,6 @@
 # Page Modified Privacy Policy
 
-We collect certain information relative to users who visit the site. Page Modified does not make any attempt to obtain information that personally identifies our users who visit our site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties. We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission.
+We collect information relative to users who visit the site. Page Modified does not make any attempt to obtain information that personally identifies our users who visit our site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties. We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission.
 
 ## Information Gathering and Usage
 
@@ -22,4 +22,4 @@ We transfer information about you if Page Modified is acquired by or merged with
 
 ## Changes to This Policy
 
-Although changes to our Privacy Policy are unlikley to be significant, Page Modified may periodically update this policy. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Page Modified primary account holder account or by placing a prominent notice on our site.
+Although changes to our Privacy Policy are unlikley to be significant, Page Modified may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Page Modified primary account holder account or by placing a prominent notice on our site.
