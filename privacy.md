@@ -22,4 +22,4 @@ We transfer information about you if Page Modified is acquired by or merged with
 
 ## Changes to This Policy
 
-Although changes to our Privacy Policy are unlikley to be significant, Page Modified may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Page Modified primary account holder account or by placing a prominent notice on our site.
+Although changes to our Privacy Policy are unlikley to be significant, Page Modified may periodically update this policy. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Page Modified primary account holder account or by placing a prominent notice on our site.
