@@ -7,7 +7,7 @@ Page Modified is providing Member with a website monitoring services. Member mus
 
 ## Pricing & Payment for Services
 
-Member shall pay associated fees for Services based on the product used. All payments shall be via credit card unless otherwise agreed.
+Member will pay associated fees for Services based on the product used. All payments shall be via credit card unless otherwise agreed.
 
 ## Disclaimer of Warranties
 
