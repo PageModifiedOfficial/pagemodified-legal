@@ -20,7 +20,6 @@ We use both session and persistent cookies on the Service and we use different t
 
 - Essential cookies. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
 
-For the full disclosure section, including all types of cookies (from essentials to advertising cookies), create your own Cookies Policy.
 
 ## THIRD-PARTY COOKIES
 
